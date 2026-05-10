@@ -1,5 +1,5 @@
 ---
-title: "Team XXX"
+title: "Team BosphorusBytes"
 sidebar: false 
 ---
 
@@ -11,14 +11,21 @@ This is our template.
 
 # Team Members
 
-1.  [Edin_Džeko](https://tr.wikipedia.org/wiki/Edin_D%C5%BEeko)
+1.  [Melike Ebrar Şahinbay](https://tr.wikipedia.org/wiki/Edin_D%C5%BEeko)
 
-2.  [Dušan Tadić](https://tr.wikipedia.org/wiki/Du%C5%A1an_Tadi%C4%87)
+2.  [Sıla Nur Güney](https://tr.wikipedia.org/wiki/Du%C5%A1an_Tadi%C4%87)
 
-3.  [Frederico Rodrigues de Paula Santos](https://tr.wikipedia.org/wiki/Fred_(1993_do%C4%9Fumlu_futbolcu))
+3.  [Mevlüt Görgülü](https://tr.wikipedia.org/wiki/Fred_(1993_do%C4%9Fumlu_futbolcu))
 
-4.  [Sebastian Szymański](https://tr.wikipedia.org/wiki/Sebastian_Szyma%C5%84ski)
+4.  [Asiye Koç](https://tr.wikipedia.org/wiki/Sebastian_Szyma%C5%84ski)
 
 # Project Topic
-
+Istanbul Airbnb Analysis: How Short-Term Rentals Are Reshaping the City.
 # Data Set
+Our dataset is the Istanbul Airbnb dataset from Inside Airbnb (insideairbnb.com). It has three main files:
+
+**listings.csv:** Contains ~20,000 listings with columns like price, neighbourhood, room type, host info, and review scores.
+**reviews.csv:** Contains over 100,000 guest reviews dating back to 2010.
+**calendar.csv:** Contains daily availability and prices per listing.
+
+There is also a GeoJSON file for Istanbul neighbourhoods that we plan to use for map visuals. Everything is free to download and updated regularly.
